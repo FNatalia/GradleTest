@@ -18,6 +18,8 @@ driver.get("http://elmir.ua");
 
     @Test
     public void testMyTest() throws Exception {
+
+
         Assert.assertTrue(true);
     }
 

@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Suites">
+<suite name="suites">
     <test name="Some test" >
 
         <classes>
